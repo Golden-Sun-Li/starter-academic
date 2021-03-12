@@ -18,27 +18,27 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- NLP in Social Media
+- Multimodal Natural Language Processing: Vision-based Multi-turn Dialogue / Video-based Speech Dialogue
+- Commonsense Reasoning for MRC (Machine Reading Comprehension)
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Duke University
+    year: 2021-2025 (expected)
+  - course: M.S in Data-driven Analysis and Computing (Electrical Engineering)
+    institution: Columbia University in the City of the New York
+    year: 2018-2020
+  - course: BSc in Electrical Engineering and Automation
+    institution: Harbin Institute of Technology
+    year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:jl5173@columbia.edu" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -51,10 +51,10 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Golden-Sun-Li
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/jinyang-li-6a35a1116
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
