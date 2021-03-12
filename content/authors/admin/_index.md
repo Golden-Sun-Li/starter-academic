@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- NLP in Social Media <br>
-- Multimodal Natural Language Processing: Vision-based Multi-turn Dialogue / Video-based Speech Dialogue <br>
-- Commonsense Reasoning for MRC (Machine Reading Comprehension) <br>
+- NLP in Social Media 
+- Multimodal Natural Language Processing 
+- MRC (Machine Reading Comprehension) 
 
 # Education to show in About widget
 education:
