@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/Golden-Sun-Li
+  link: https://github.com/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jinyang-li-6a35a1116
