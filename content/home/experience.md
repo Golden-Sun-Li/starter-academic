@@ -22,24 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Intern
+    company: Peking University, MOE Key Laboratory of Machine Perception
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Beijing
+    date_start: '2020-09-01'
+    date_end: '2021-02-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Annotate data collected from WikiPedia including the most frequent 1,500 attributes and 23,000 words.
+        * Proposed a Bi-directional Table-to-text Encoder to learn the features through minimizing the reconstruction loss.
+        * Implemented a Multi-choice Cloze Module as an Auxiliary Supervision task to reduce bias of Generative model.
         
-  - title: Professor
-    company: University X
+  - title: Research Intern
+    company: HIT-SCIR (Social Prediction Group)
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Harbin
+    date_start: '2020-02-01'
+    date_end: '2020-08-31'
+    description: |2-
+        Projects include:
+        
+        * A Motif Aware Heterogenous Neural Network for Event-Product Pair Extraction.
+        * Consumption Intention Mining and Recommendation System in Social Media.
+        
 ---
