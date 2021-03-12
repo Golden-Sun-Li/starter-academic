@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- NLP in Social Media
-- Multimodal Natural Language Processing: Vision-based Multi-turn Dialogue / Video-based Speech Dialogue
-- Commonsense Reasoning for MRC (Machine Reading Comprehension)
+- NLP in Social Media <br>
+- Multimodal Natural Language Processing: Vision-based Multi-turn Dialogue / Video-based Speech Dialogue <br>
+- Commonsense Reasoning for MRC (Machine Reading Comprehension) <br>
 
 # Education to show in About widget
 education:
@@ -73,4 +73,4 @@ Hi, I'm the junior PhD student in Department of Computer Science in Duke Univers
 
 I achieved my Master of Science in Department of Electrical Engineering with track: Data-driven Analysis and Computing from Columbia University 2020, and recevied my Bachalor of Engineering in Department of Electrical Engineering and Automation in 2017.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
