@@ -26,8 +26,8 @@ feature:
   name: Mathmatics
 - description: 66%
   icon: java
-  icon_pack: fas
-  name: Photography
+  icon_pack: fab
+  name: java
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
