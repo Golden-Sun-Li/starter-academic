@@ -14,7 +14,7 @@ organizations:
   url: https://www.cs.duke.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Natural Language Processing, Social Computing and Computer Vision.
 
 # Interests to show in About widget
 interests:
@@ -69,7 +69,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I'm the junior PhD student in Department of Computer Science in Duke University, advised by [Prof. Bhuwan Dhingra](https://www.cs.duke.edu/people/faculty/348). My research interests include Natural Language Processing, Machine Learning, Multimedia Analysis. I'm exploring how to merge external commonsense knowledge into language model in an efficient and effective way. I'm also the member of [Duke Microsoft Innovation Center](https://olv.duke.edu/news/innovation-hub_duke-microsoft-durham/). Before Joining Duke, I honorably worked with [Prof. Ting Liu](http://scholar.google.com/citations?user=zyMJ1V0AAAAJ&hl=en) in HIT-SCIR, [Prof. Jun Zhun](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml) in Tsinghua University and [Prof. Xihong Wu](http://scholar.google.com/citations?user=0ZSjU8QAAAAJ&hl=zh-CN) in Peking University.
+Hi, I'm a junior PhD student in Department of Computer Science in Duke University, advised by [Prof. Bhuwan Dhingra](https://www.cs.duke.edu/people/faculty/348). My research interests include Natural Language Processing, Machine Learning, Multimedia Analysis. I'm exploring how to merge external commonsense knowledge into language model in an efficient and effective way. I'm also the member of [Duke Microsoft Innovation Center](https://olv.duke.edu/news/innovation-hub_duke-microsoft-durham/). Before Joining Duke, I honorably worked with [Prof. Ting Liu](http://scholar.google.com/citations?user=zyMJ1V0AAAAJ&hl=en) in HIT-SCIR, [Prof. Jun Zhun](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml) in Tsinghua University and [Prof. Xihong Wu](http://scholar.google.com/citations?user=0ZSjU8QAAAAJ&hl=zh-CN) in Peking University.
 
 I achieved my Master of Science in Department of Electrical Engineering with track: Data-driven Analysis and Computing from Columbia University 2020, and recevied my Bachalor of Engineering in Department of Electrical Engineering and Automation in 2017.
 
