@@ -37,7 +37,9 @@ summary: We present a Meta-Topology based Heterogeneous Graph Neural Network (MT
 
 tags: []
 
-# Display this page in the Featured widget?
+# Display this page in the 
+
+ widget?
 featured: true
 
 # Custom links (uncomment lines below)
